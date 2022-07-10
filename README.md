@@ -1,7 +1,7 @@
 ### Hi I am Anshika 👋
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on a banking website .
 - 🌱 I’m currently learning PHP.
@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: नमस्कार करके जाना 🙏🙏
 <img src = "https://github-readme-stats.vercel.app/api?username=Anshika91&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<h1 align="center">
+<img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2019/01/giphy-3.gif?fit=1&resize=620%2C4000&ssl=1">
+</h1>
