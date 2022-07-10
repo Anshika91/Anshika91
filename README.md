@@ -2,10 +2,8 @@
 [![MasterHead](https://www.eschoolnews.com/files/2021/02/coding-platform-STEM-code.jpg)
 
 ### Hi I am Anshika 👋
-
-
 <h3 align="center">A passionate web developer from India</h3>
-<h3 align="center>And passionate to learn Android and New Technologies.</h3>
+
 
 - 🔭 I’m currently working on a banking website .
 - 🌱 I’m currently learning PHP.
