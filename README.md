@@ -10,3 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/anshika-mishra-54621a20b
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: नमस्कार करके जाना 🙏🙏
+<img src = "https://github-readme-stats.vercel.app/api?username=Anshika91&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
