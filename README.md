@@ -4,7 +4,6 @@
 ### ¡Saludos! I am Anshika 👋
 <h3 align="center">A passionate web developer from India</h3>
 
-
 - 🔭 I’m currently working on a banking website .
 - 🌱 I’m currently learning PHP.
 - 👯 I’m looking to collaborate on github and codechef.
