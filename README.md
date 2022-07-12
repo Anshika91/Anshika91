@@ -1,7 +1,12 @@
 
-[![MasterHead](https://www.eschoolnews.com/files/2021/02/coding-platform-STEM-code.jpg)
+
 
 ### ¡Saludos! I am Anshika 👋
+
+
+[![MasterHead](https://www.eschoolnews.com/files/2021/02/coding-platform-STEM-code.jpg)   
+
+
 <h3 align="center">A passionate web developer from India</h3>
 
 - 🔭 I’m currently working on a banking website .
