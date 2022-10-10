@@ -18,7 +18,7 @@
 - ⚡ Fun fact: नमस्कार करके जाना 🙏🙏
 <img src = "https://github-readme-stats.vercel.app/api?username=Anshika91&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
-<p align="center">
+<p align="left">
     <a href="https://github-readme-streak-stats.herokuapp.com?user=Anshika91&theme=black-ice&stroke=060A0CD0">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anshika Mishra's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Anshika91&theme=black-ice&stroke=060A0CD0"/>
     </a>
