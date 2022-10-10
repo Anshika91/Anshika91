@@ -18,6 +18,12 @@
 - ⚡ Fun fact: नमस्कार करके जाना 🙏🙏
 <img src = "https://github-readme-stats.vercel.app/api?username=Anshika91&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
+<p align="center">
+    <a href="https://github-readme-streak-stats.herokuapp.com?user=Anshika91&theme=black-ice&stroke=060A0CD0">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anshika Mishra's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Anshika91&theme=black-ice&stroke=060A0CD0"/>
+    </a>
+</p>
+
 <h2>My Work😁</h2>
 <h1 align="center">
 <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2019/01/giphy-3.gif?fit=1&resize=620%2C4000&ssl=1">
