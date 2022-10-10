@@ -16,9 +16,10 @@
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/anshika-mishra-54621a20b
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: नमस्कार करके जाना 🙏🙏
+- <p align="left">
 <img src = "https://github-readme-stats.vercel.app/api?username=Anshika91&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
-<p align="left">
+
     <a href="https://github-readme-streak-stats.herokuapp.com?user=Anshika91&theme=black-ice&stroke=060A0CD0">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anshika Mishra's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Anshika91&theme=black-ice&stroke=060A0CD0"/>
     </a>
