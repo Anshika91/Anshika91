@@ -10,7 +10,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 - 🔭 I’m currently working on a banking website and a e-commarce website  .
-- 🌱 I’m currently learning PHP and kaggle.
+- 🌱 I’m currently learning PHP and working.
 - 👯 I’m looking to collaborate on github and codechef.
 - 💬 Ask me about tech related stuff.
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/anshika-mishra-54621a20b
