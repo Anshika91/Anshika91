@@ -7,7 +7,7 @@
 [![MasterHead](https://www.eschoolnews.com/files/2021/02/coding-platform-STEM-code.jpg)   
 
 
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">...A passionate web developer from India</h3>
 
 - 🔭 I’m currently working on a banking website and a e-commarce website  .
 - 🌱 I’m currently learning PHP and working.
