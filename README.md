@@ -10,7 +10,7 @@
 <h3 align="center">A passionate web developer from India....</h3>
 
 - 🔭 I’m currently working on a Ai_Ml Projects.
-- 🌱 I’m currently learning Microsoft azure and machine learning.
+- 🌱 I’m currently learning Microsoft azure and Deep Learning.
 - 👯 I’m looking to collaborate on github, leetcode and codechef.
 - 💬 Ask me about tech related stuff.
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/anshika-mishra-54621a20b
