@@ -7,7 +7,7 @@
 ![MasterHead](https://www.eschoolnews.com/files/2021/02/coding-platform-STEM-code.jpg)   
 
 
-<h3 align="center">A passionate web developer from India....</h3>
+<h3 align="center">A passionate Student & Contributor from India....</h3>
 
 - 🔭 I’m currently working on a Ai_Ml Projects.
 - 🌱 I’m currently learning Microsoft azure and Deep Learning.
