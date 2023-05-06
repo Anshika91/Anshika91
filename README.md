@@ -15,7 +15,7 @@
 - 💬 Ask me about tech related stuff.
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/anshika-mishra-54621a20b
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: नमस्कार करके जाना 🙏🙏
+- ⚡ Fun fact: नमस्कार करके जाना 🙏
 - <p align="right">
 <img src = "https://github-readme-stats.vercel.app/api?username=Anshika91&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 </p>
