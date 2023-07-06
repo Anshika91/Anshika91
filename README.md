@@ -1,7 +1,7 @@
 
 
 
-## ¡Saludos! I am Anshika 👋.
+## ¡Saludos! I am Anshika 👋
 
 
 ![MasterHead](https://www.eschoolnews.com/files/2021/02/coding-platform-STEM-code.jpg)   
